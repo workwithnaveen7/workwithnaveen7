@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Naveen Kumar</h1>
 <h3 align="center">Cybersecurity student with a strong passion for information security and ethical hacking, actively working towards a role in safeguarding the digital world</h3>
 
-<img align="right" alt="Coding" width="200" src="https://media.licdn.com/dms/image/C4E12AQGXDsd3bK-zRQ/article-cover_image-shrink_600_2000/0/1623833891372?e=2147483647&v=beta&t=C2PKtDENAFXq6UijBuhHVdjOcjmWJZ6cbJxHEw-ZUzw">
+<img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/468184140/vector/flat-illustration-of-security-center-lock-with-chain-around-lap.jpg?s=612x612&w=0&k=20&c=HBiFd2LiHjlDyUONBuWu8XpaaGcTMhwh-s3U5ji4K5M=">
 
 
 - 💻 I’m doing Internship in **Indian Computer Emergency Response Team (CERT-In) in the domain of Cybersecurity**

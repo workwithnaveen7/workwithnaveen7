@@ -5,7 +5,8 @@
 <img align="right" alt="Coding" width="300" src="https://media.istockphoto.com/id/468184140/vector/flat-illustration-of-security-center-lock-with-chain-around-lap.jpg?s=612x612&w=0&k=20&c=HBiFd2LiHjlDyUONBuWu8XpaaGcTMhwh-s3U5ji4K5M=">
 
 
-- 💻 I’m doing Internship in **Indian Computer Emergency Response Team (CERT-In) in the domain of Cybersecurity**
+
+- 💻 I’m doing Internship in **Indian Computer Emergency Response Team (CERT-In)** in the domain of Cybersecurity
 
 - 🔭 I’m currently working on [Security Auditing Dashboard](https://github.com/workwithnaveen7/Security-Auditing-Dashboard)
 

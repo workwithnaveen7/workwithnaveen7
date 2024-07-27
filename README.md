@@ -3,7 +3,6 @@
 <h3 align="center">Cybersecurity student with a strong passion for information security and ethical hacking, actively working towards a role in safeguarding the digital world</h3>
 <img align="right" alt="Coding" width="400" src="https://media.istockphoto.com/id/468184140/vector/flat-illustration-of-security-center-lock-with-chain-around-lap.jpg?s=612x612&w=0&k=20&c=HBiFd2LiHjlDyUONBuWu8XpaaGcTMhwh-s3U5ji4K5M=">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=workwithnaveen7&label=Profile%20views&color=0e75b6&style=flat" alt="workwithnaveen7" /> </p>
 
 - 💻 I’m doing Internship in **Indian Computer Emergency Response Team (CERT-In) in the domain of Cybersecurity**
 
@@ -23,5 +22,8 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=workwithnaveen7&show_icons=true&locale=en&layout=compact" alt="workwithnaveen7" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=workwithnaveen7&show_icons=true&locale=en" alt="workwithnaveen7" /></p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=workwithnaveen7&label=Profile%20views&color=0e75b6&style=flat" alt="workwithnaveen7" /> </p>
 
 

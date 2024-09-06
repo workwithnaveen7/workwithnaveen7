@@ -6,7 +6,7 @@
 
 - 💻 I’m doing Internship in **Indian Computer Emergency Response Team (CERT-In)** in the domain of Cybersecurity
 
-- 🔭 I’m currently working on [Phishing Simulation Platform](https://github.com/workwithnaveen7/)
+- 🔭 I’m currently working on [Web Application Penetration Testing Toolkit](https://github.com/workwithnaveen7/Web-Application-Penetration-Testing-Toolkit)
 
 <img align="right" alt="Coding" width="100" src="https://media.licdn.com/dms/image/C4E12AQGXDsd3bK-zRQ/article-cover_image-shrink_600_2000/0/1623833891372?e=2147483647&v=beta&t=C2PKtDENAFXq6UijBuhHVdjOcjmWJZ6cbJxHEw-ZUzw">
 
